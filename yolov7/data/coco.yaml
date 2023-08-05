@@ -1,0 +1,7 @@
+train: ../aeriau/images/train/
+#val: ../aeriau/images/valid/
+val: ../aeriau/images/test/
+test: ../aeriau/images/test/
+
+nc: 4
+names: ['car', 'truck', 'bus', 'motor']
