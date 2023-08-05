@@ -1,6 +1,6 @@
-train: ../aeriau/images/train/
-val: ../aeriau/images/valid/
-test: ../aeriau/images/test/
+train: /home/loinh/FAIR1/dataset/images/train/
+val: /home/loinh/FAIR1/dataset/images/test/
+test: /home/loinh/FAIR1/dataset/images/test/
 
 nc: 4
 names: ['car', 'truck', 'bus', 'motor']

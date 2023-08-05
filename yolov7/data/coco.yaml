@@ -1,5 +1,4 @@
 train: ../aeriau/images/train/
-#val: ../aeriau/images/valid/
 val: ../aeriau/images/test/
 test: ../aeriau/images/test/
 
